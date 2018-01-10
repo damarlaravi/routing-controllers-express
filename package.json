@@ -11,8 +11,8 @@
     "build:watch": "npm run build -- -w"
   },
   "author": {
-    "name": "Umed Khudoiberdiev",
-    "email": "pleerock.me@gmail.com"
+    "name": "Demarla Ravi Kumar",
+    "email": "damarlaravi@gmail.com"
   },
   "repository": {
     "type": "git",
